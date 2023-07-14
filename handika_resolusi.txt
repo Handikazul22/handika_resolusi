@@ -1,0 +1,4 @@
+Handika_resolusi
+-konsisten belajar/membuat aplikasi frontend
+-konsisten belajar/membuat aplikasi backend
+-konsisten belajar/membuat aplikasi android
